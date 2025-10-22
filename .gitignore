@@ -1,2 +1,7 @@
 .git-backend-backup
 .env
+Backend.code-workspace
+commit-backend.sh
+commit-frontend.sh
+mongodb-setup.sh
+smart-push.sh
